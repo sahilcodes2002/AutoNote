@@ -29,7 +29,7 @@ export function Homepage() {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-6">
-              Smart Note-Taking Reimagined !
+              Smart Note-Taking Reimagined !!
             </h1>
             <p className="text-md text-gray-600 mb-8 max-w-3xl mx-auto">
               Capture web content instantly, organize effortlessly, and access anywhere.<br/>
