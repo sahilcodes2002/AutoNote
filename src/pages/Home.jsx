@@ -33,7 +33,7 @@ export function Homepage() {
             </h1>
             <p className="text-md text-gray-600 mb-8 max-w-3xl mx-auto">
               Capture web content instantly, organize effortlessly, and access anywhere.<br/>
-              Let AI-powered automation handle your notes while you focus on what matters.
+              Let AI-powered automation handle your notes while you focus on what matters..
             </p>
             <div className="flex justify-center gap-4">
               <Link
